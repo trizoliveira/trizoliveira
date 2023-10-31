@@ -1,5 +1,8 @@
 ### Oiii! Eu sou a Beatriz Oliveira👋 
 
+- Atualmente trabalho com front-end e data analytics
+- Contribuo para o projeto Irrigo System
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Triz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Triz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
